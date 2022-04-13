@@ -1,2 +1,2 @@
 # Dastard.Inc
-D&amp;D file hub
+> The collection of reports written as part of the Dungeons & Dragons game in 2022.
